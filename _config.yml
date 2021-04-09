@@ -13,23 +13,20 @@ author: Crina Oltean
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /resume/
+baseurl: /
 title: Crina Oltean's Resume
 name: Crina Oltean
 email: crina_adela_oltean@yahoo.com
 email_full: mailto:crina_adela_oltean@yahoo.com
-website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+website: crinaoltean.github.io
+website_full: https://crinaoltean.github.io/
+github: github.com/crinaOltean
+Discord: Criiina#4444
+tel: 0686153501
+tel_full: +31686153501
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  city: Amsterdam
+  country: The Netherlands
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
